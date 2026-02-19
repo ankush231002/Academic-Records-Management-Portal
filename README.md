@@ -1,9 +1,17 @@
-[README.md](https://github.com/user-attachments/files/25408693/README.md)
+
 # 🎓 Academic Records Management Portal
 
 A production-ready RESTful API built with **Spring Boot** and **MySQL** for managing student academic records — including profile images, documents, and bank details — with smart partial update logic and custom validations.
 
 ---
+
+![Screenshot_3](https://github.com/user-attachments/assets/4badb208-a822-4152-b706-94ad336786f6)
+
+
+![Screenshot_4](https://github.com/user-attachments/assets/6d4a6eea-e434-487e-8b94-b0ddf42afa37)
+
+
+
 
 ## ✨ Features
 
